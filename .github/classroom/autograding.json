@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "quiz1.txt",
+      "setup": "javac Scantron.java",
+      "run": "java Scantron",
+      "input": "quiz1.txt",
+      "output": "stA: 70.0\r\nstB: 90.0\r\nstC: 60.0\r\nstD: 50.0\r\nstE: 50.0\r\nstF: 40.0\r\nstG: 60.0\r\nstH: 30.0\r\nstI: 70.0\r\nstJ: 40.0\r\nstK: 60.0\r\nstL: 40.0\r\nQ1: 66.7%\r\nQ2: 50.0%\r\nQ3: 50.0%\r\nQ4: 50.0%\r\nQ5: 41.7%\r\nQ6: 41.7%\r\nQ7: 66.7%\r\nQ8: 58.3%\r\nQ9: 66.7%\r\nQ10: 50.0%\r\nHighest scorer(s): stB",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
