@@ -7,7 +7,7 @@
 - The third line is the key
 - Each subsequent line is a single student's answers
 - Read in the data into a 2D array
-- Calculate each students grade (out of 100)
+- Calculate each students grade (out of 100) (rounded to one decimal place)
 - Calculate the percentage of students who got each question right (rounded to one decimal place)
 - Determine which student(s) has the highest score
 
