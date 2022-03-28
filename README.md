@@ -32,7 +32,7 @@ stL T T T F F F T T T F\
 ***Example Output:***\
 stA: 70.0\
 stB: 90.0\
-stC: 60.0\
+stC: 50.0\
 stD: 50.0\
 stE: 50.0\
 stF: 40.0\
