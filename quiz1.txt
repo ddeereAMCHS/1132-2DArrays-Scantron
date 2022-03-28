@@ -1,0 +1,13 @@
+KEY T F F T F T T F T T
+stA T T F T T F T F T T
+stB T F F T T T T F T T
+stC T F T F T F T F T F
+stD T T F T T F T T F T
+stE F F T F F T F F T F
+stF F F T F T F T F F T
+stG T T F T F T F T T F
+stH T T T T T F F F F F
+stI F F F F F T T T T T
+stJ F F T T F F T T F F
+stK T T F F T T F F T T
+stL T T T F F F T T T F
