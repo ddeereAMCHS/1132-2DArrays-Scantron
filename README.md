@@ -1,5 +1,7 @@
 # Scantron
 
+## Due: DoW MM/DD at 11:59 PM
+
 - Create a program called `Scantron.java`
 - Prompt the user for a filename
 - The first line is the number of students who took the quiz
