@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 2,
       "points": null
+    },
+    {
+      "name": "quiz2.txt",
+      "setup": "javac Scantron.java",
+      "run": "java Scantron",
+      "input": "quiz2.txt",
+      "output": "st1: 62.5\r\nst2: 87.5\r\nst3: 50.0\r\nst4: 50.0\r\nst5: 50.0\r\nst6: 37.5\r\nst7: 62.5\r\nst8: 37.5\r\nst9: 62.5\r\nQ1: 66.7%\r\nQ2: 55.6%\r\nQ3: 55.6%\r\nQ4: 55.6%\r\nQ5: 33.3%\r\nQ6: 44.4%\r\nQ7: 66.7%\r\nQ8: 66.7%\r\nHighest scorer(s): st2",
+      "comparison": "included",
+      "timeout": 2,
+      "points": null
     }
   ]
 }
