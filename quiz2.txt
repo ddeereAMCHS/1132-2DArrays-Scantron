@@ -1,0 +1,12 @@
+9
+8
+KEY T F F T F T T F
+st1 T T F T T F T F
+st2 T F F T T T T F
+st3 T F T F T F T F
+st4 T T F T T F T T
+st5 F F T F F T F F
+st6 F F T F T F T F
+st7 T T F T F T F T
+st8 T T T T T F F F
+st9 F F F F F T T T
